@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Python Cache & Model Binary
+__pycache__/
+*.pyc
+*.pkl
+
+# Icarus Verilog Compiled Executables & Waveforms
+*.out
+*.vcd
+
+# OS / Editor Files
+.vscode/
+.DS_Store
+Thumbs.db

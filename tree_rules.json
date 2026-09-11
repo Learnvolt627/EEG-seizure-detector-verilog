@@ -1,0 +1,2094 @@
+[
+    {
+        "type": "node",
+        "feature": "X6",
+        "threshold": -20,
+        "left": {
+            "type": "node",
+            "feature": "X5",
+            "threshold": -8,
+            "left": {
+                "type": "node",
+                "feature": "X6",
+                "threshold": -22,
+                "left": {
+                    "type": "node",
+                    "feature": "X6",
+                    "threshold": -30,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 0
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X4",
+                        "threshold": -12,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X16",
+                    "threshold": -8,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 0
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X15",
+                        "threshold": 26,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X9",
+                "threshold": -10,
+                "left": {
+                    "type": "node",
+                    "feature": "X8",
+                    "threshold": -4,
+                    "left": {
+                        "type": "node",
+                        "feature": "X6",
+                        "threshold": -22,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "leaf",
+                        "vote": 1
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X3",
+                    "threshold": -30,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 0
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X13",
+                        "threshold": -14,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    }
+                }
+            }
+        },
+        "right": {
+            "type": "node",
+            "feature": "X6",
+            "threshold": 24,
+            "left": {
+                "type": "node",
+                "feature": "X16",
+                "threshold": -20,
+                "left": {
+                    "type": "node",
+                    "feature": "X11",
+                    "threshold": 9,
+                    "left": {
+                        "type": "node",
+                        "feature": "X6",
+                        "threshold": -18,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X14",
+                        "threshold": 8,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X16",
+                    "threshold": 16,
+                    "left": {
+                        "type": "node",
+                        "feature": "X8",
+                        "threshold": -24,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X16",
+                        "threshold": 22,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X14",
+                "threshold": -6,
+                "left": {
+                    "type": "leaf",
+                    "vote": 0
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X7",
+                    "threshold": 16,
+                    "left": {
+                        "type": "node",
+                        "feature": "X2",
+                        "threshold": 54,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X5",
+                        "threshold": 22,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "type": "node",
+        "feature": "X3",
+        "threshold": -18,
+        "left": {
+            "type": "node",
+            "feature": "X1",
+            "threshold": -18,
+            "left": {
+                "type": "node",
+                "feature": "X16",
+                "threshold": -6,
+                "left": {
+                    "type": "leaf",
+                    "vote": 0
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X1",
+                    "threshold": -26,
+                    "left": {
+                        "type": "node",
+                        "feature": "X3",
+                        "threshold": -26,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X16",
+                        "threshold": 6,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X6",
+                "threshold": -24,
+                "left": {
+                    "type": "node",
+                    "feature": "X1",
+                    "threshold": -10,
+                    "left": {
+                        "type": "node",
+                        "feature": "X5",
+                        "threshold": -18,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "leaf",
+                        "vote": 0
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X10",
+                    "threshold": 4,
+                    "left": {
+                        "type": "node",
+                        "feature": "X4",
+                        "threshold": -8,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "leaf",
+                        "vote": 0
+                    }
+                }
+            }
+        },
+        "right": {
+            "type": "node",
+            "feature": "X6",
+            "threshold": 24,
+            "left": {
+                "type": "node",
+                "feature": "X9",
+                "threshold": -20,
+                "left": {
+                    "type": "node",
+                    "feature": "X11",
+                    "threshold": -8,
+                    "left": {
+                        "type": "node",
+                        "feature": "X3",
+                        "threshold": -6,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X14",
+                        "threshold": 10,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X11",
+                    "threshold": 30,
+                    "left": {
+                        "type": "node",
+                        "feature": "X16",
+                        "threshold": -22,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X4",
+                        "threshold": -28,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X7",
+                "threshold": 16,
+                "left": {
+                    "type": "node",
+                    "feature": "X4",
+                    "threshold": 33,
+                    "left": {
+                        "type": "node",
+                        "feature": "X2",
+                        "threshold": -12,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "leaf",
+                        "vote": 0
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X4",
+                    "threshold": -22,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 1
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X4",
+                        "threshold": -15,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "type": "node",
+        "feature": "X9",
+        "threshold": -20,
+        "left": {
+            "type": "node",
+            "feature": "X9",
+            "threshold": -32,
+            "left": {
+                "type": "node",
+                "feature": "X11",
+                "threshold": -10,
+                "left": {
+                    "type": "leaf",
+                    "vote": 0
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X11",
+                    "threshold": -2,
+                    "left": {
+                        "type": "node",
+                        "feature": "X14",
+                        "threshold": -9,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X13",
+                        "threshold": -32,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X8",
+                "threshold": -14,
+                "left": {
+                    "type": "node",
+                    "feature": "X10",
+                    "threshold": 4,
+                    "left": {
+                        "type": "node",
+                        "feature": "X15",
+                        "threshold": -4,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X7",
+                        "threshold": 1,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X11",
+                    "threshold": -7,
+                    "left": {
+                        "type": "node",
+                        "feature": "X5",
+                        "threshold": -6,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X15",
+                        "threshold": 50,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            }
+        },
+        "right": {
+            "type": "node",
+            "feature": "X1",
+            "threshold": -18,
+            "left": {
+                "type": "node",
+                "feature": "X6",
+                "threshold": 8,
+                "left": {
+                    "type": "node",
+                    "feature": "X2",
+                    "threshold": -16,
+                    "left": {
+                        "type": "node",
+                        "feature": "X4",
+                        "threshold": -16,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X7",
+                        "threshold": -17,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    }
+                },
+                "right": {
+                    "type": "leaf",
+                    "vote": 0
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X4",
+                "threshold": 28,
+                "left": {
+                    "type": "node",
+                    "feature": "X8",
+                    "threshold": 24,
+                    "left": {
+                        "type": "node",
+                        "feature": "X11",
+                        "threshold": 34,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X9",
+                        "threshold": 11,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X3",
+                    "threshold": 5,
+                    "left": {
+                        "type": "node",
+                        "feature": "X14",
+                        "threshold": -74,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "leaf",
+                        "vote": 0
+                    }
+                }
+            }
+        }
+    },
+    {
+        "type": "node",
+        "feature": "X8",
+        "threshold": -18,
+        "left": {
+            "type": "node",
+            "feature": "X7",
+            "threshold": -12,
+            "left": {
+                "type": "node",
+                "feature": "X8",
+                "threshold": -24,
+                "left": {
+                    "type": "node",
+                    "feature": "X8",
+                    "threshold": -26,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 0
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X8",
+                        "threshold": -26,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X2",
+                    "threshold": -2,
+                    "left": {
+                        "type": "node",
+                        "feature": "X4",
+                        "threshold": -24,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "leaf",
+                        "vote": 0
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X11",
+                "threshold": -20,
+                "left": {
+                    "type": "leaf",
+                    "vote": 0
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X14",
+                    "threshold": 45,
+                    "left": {
+                        "type": "node",
+                        "feature": "X3",
+                        "threshold": -24,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "leaf",
+                        "vote": 0
+                    }
+                }
+            }
+        },
+        "right": {
+            "type": "node",
+            "feature": "X7",
+            "threshold": 16,
+            "left": {
+                "type": "node",
+                "feature": "X3",
+                "threshold": -30,
+                "left": {
+                    "type": "node",
+                    "feature": "X4",
+                    "threshold": 2,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 0
+                    },
+                    "right": {
+                        "type": "leaf",
+                        "vote": 1
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X11",
+                    "threshold": 34,
+                    "left": {
+                        "type": "node",
+                        "feature": "X11",
+                        "threshold": -22,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X12",
+                        "threshold": 4,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X7",
+                "threshold": 22,
+                "left": {
+                    "type": "node",
+                    "feature": "X3",
+                    "threshold": -5,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 0
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X2",
+                        "threshold": 36,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X8",
+                    "threshold": 2,
+                    "left": {
+                        "type": "node",
+                        "feature": "X10",
+                        "threshold": -18,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X6",
+                        "threshold": 2,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "type": "node",
+        "feature": "X16",
+        "threshold": -16,
+        "left": {
+            "type": "node",
+            "feature": "X15",
+            "threshold": 12,
+            "left": {
+                "type": "node",
+                "feature": "X5",
+                "threshold": -6,
+                "left": {
+                    "type": "leaf",
+                    "vote": 0
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X15",
+                    "threshold": 2,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 0
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X5",
+                        "threshold": 2,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X13",
+                "threshold": 30,
+                "left": {
+                    "type": "leaf",
+                    "vote": 1
+                },
+                "right": {
+                    "type": "leaf",
+                    "vote": 0
+                }
+            }
+        },
+        "right": {
+            "type": "node",
+            "feature": "X8",
+            "threshold": -22,
+            "left": {
+                "type": "node",
+                "feature": "X11",
+                "threshold": -11,
+                "left": {
+                    "type": "leaf",
+                    "vote": 0
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X16",
+                    "threshold": -4,
+                    "left": {
+                        "type": "node",
+                        "feature": "X7",
+                        "threshold": -20,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X9",
+                        "threshold": 22,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X7",
+                "threshold": 18,
+                "left": {
+                    "type": "node",
+                    "feature": "X3",
+                    "threshold": -32,
+                    "left": {
+                        "type": "node",
+                        "feature": "X6",
+                        "threshold": -24,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X15",
+                        "threshold": 28,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X7",
+                    "threshold": 36,
+                    "left": {
+                        "type": "node",
+                        "feature": "X15",
+                        "threshold": 24,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X10",
+                        "threshold": 19,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "type": "node",
+        "feature": "X16",
+        "threshold": -16,
+        "left": {
+            "type": "node",
+            "feature": "X16",
+            "threshold": -22,
+            "left": {
+                "type": "node",
+                "feature": "X2",
+                "threshold": -4,
+                "left": {
+                    "type": "leaf",
+                    "vote": 0
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X15",
+                    "threshold": 12,
+                    "left": {
+                        "type": "node",
+                        "feature": "X15",
+                        "threshold": 8,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X15",
+                        "threshold": 34,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X15",
+                "threshold": 2,
+                "left": {
+                    "type": "node",
+                    "feature": "X14",
+                    "threshold": 20,
+                    "left": {
+                        "type": "node",
+                        "feature": "X13",
+                        "threshold": 12,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "leaf",
+                        "vote": 1
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X9",
+                    "threshold": -26,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 0
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X13",
+                        "threshold": 62,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            }
+        },
+        "right": {
+            "type": "node",
+            "feature": "X2",
+            "threshold": 22,
+            "left": {
+                "type": "node",
+                "feature": "X6",
+                "threshold": -20,
+                "left": {
+                    "type": "node",
+                    "feature": "X5",
+                    "threshold": 0,
+                    "left": {
+                        "type": "node",
+                        "feature": "X6",
+                        "threshold": -34,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X9",
+                        "threshold": -41,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X15",
+                    "threshold": 26,
+                    "left": {
+                        "type": "node",
+                        "feature": "X2",
+                        "threshold": -22,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X14",
+                        "threshold": 14,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X16",
+                "threshold": 10,
+                "left": {
+                    "type": "node",
+                    "feature": "X9",
+                    "threshold": -6,
+                    "left": {
+                        "type": "node",
+                        "feature": "X10",
+                        "threshold": 4,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X6",
+                        "threshold": 38,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X1",
+                    "threshold": -2,
+                    "left": {
+                        "type": "node",
+                        "feature": "X5",
+                        "threshold": 1,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X1",
+                        "threshold": 14,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "type": "node",
+        "feature": "X8",
+        "threshold": -18,
+        "left": {
+            "type": "node",
+            "feature": "X11",
+            "threshold": -16,
+            "left": {
+                "type": "leaf",
+                "vote": 0
+            },
+            "right": {
+                "type": "node",
+                "feature": "X8",
+                "threshold": -24,
+                "left": {
+                    "type": "node",
+                    "feature": "X12",
+                    "threshold": -34,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 1
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X6",
+                        "threshold": -26,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X11",
+                    "threshold": 8,
+                    "left": {
+                        "type": "node",
+                        "feature": "X3",
+                        "threshold": -20,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X7",
+                        "threshold": -12,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    }
+                }
+            }
+        },
+        "right": {
+            "type": "node",
+            "feature": "X15",
+            "threshold": -26,
+            "left": {
+                "type": "node",
+                "feature": "X2",
+                "threshold": -30,
+                "left": {
+                    "type": "leaf",
+                    "vote": 0
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X15",
+                    "threshold": -28,
+                    "left": {
+                        "type": "node",
+                        "feature": "X16",
+                        "threshold": 4,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X2",
+                        "threshold": 8,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X6",
+                "threshold": 24,
+                "left": {
+                    "type": "node",
+                    "feature": "X12",
+                    "threshold": 30,
+                    "left": {
+                        "type": "node",
+                        "feature": "X16",
+                        "threshold": 22,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X10",
+                        "threshold": 0,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X4",
+                    "threshold": 12,
+                    "left": {
+                        "type": "node",
+                        "feature": "X7",
+                        "threshold": 15,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X4",
+                        "threshold": 32,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "type": "node",
+        "feature": "X9",
+        "threshold": -20,
+        "left": {
+            "type": "node",
+            "feature": "X8",
+            "threshold": -16,
+            "left": {
+                "type": "node",
+                "feature": "X7",
+                "threshold": 18,
+                "left": {
+                    "type": "node",
+                    "feature": "X9",
+                    "threshold": -36,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 0
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X4",
+                        "threshold": -18,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X3",
+                    "threshold": -5,
+                    "left": {
+                        "type": "node",
+                        "feature": "X13",
+                        "threshold": -8,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "leaf",
+                        "vote": 0
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X7",
+                "threshold": 8,
+                "left": {
+                    "type": "node",
+                    "feature": "X11",
+                    "threshold": -19,
+                    "left": {
+                        "type": "node",
+                        "feature": "X10",
+                        "threshold": -16,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X1",
+                        "threshold": 12,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X7",
+                    "threshold": 12,
+                    "left": {
+                        "type": "node",
+                        "feature": "X11",
+                        "threshold": -4,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "leaf",
+                        "vote": 0
+                    }
+                }
+            }
+        },
+        "right": {
+            "type": "node",
+            "feature": "X7",
+            "threshold": 18,
+            "left": {
+                "type": "node",
+                "feature": "X11",
+                "threshold": 24,
+                "left": {
+                    "type": "node",
+                    "feature": "X16",
+                    "threshold": -18,
+                    "left": {
+                        "type": "node",
+                        "feature": "X15",
+                        "threshold": -2,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X16",
+                        "threshold": 18,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X12",
+                    "threshold": 6,
+                    "left": {
+                        "type": "node",
+                        "feature": "X7",
+                        "threshold": -24,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "leaf",
+                        "vote": 0
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X9",
+                "threshold": 36,
+                "left": {
+                    "type": "node",
+                    "feature": "X5",
+                    "threshold": 20,
+                    "left": {
+                        "type": "node",
+                        "feature": "X2",
+                        "threshold": -6,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X8",
+                        "threshold": -1,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X8",
+                    "threshold": 8,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 1
+                    },
+                    "right": {
+                        "type": "leaf",
+                        "vote": 0
+                    }
+                }
+            }
+        }
+    },
+    {
+        "type": "node",
+        "feature": "X15",
+        "threshold": -20,
+        "left": {
+            "type": "node",
+            "feature": "X16",
+            "threshold": -2,
+            "left": {
+                "type": "node",
+                "feature": "X3",
+                "threshold": -6,
+                "left": {
+                    "type": "leaf",
+                    "vote": 0
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X16",
+                    "threshold": -8,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 0
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X2",
+                        "threshold": 9,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X14",
+                "threshold": -34,
+                "left": {
+                    "type": "leaf",
+                    "vote": 0
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X4",
+                    "threshold": -45,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 0
+                    },
+                    "right": {
+                        "type": "leaf",
+                        "vote": 1
+                    }
+                }
+            }
+        },
+        "right": {
+            "type": "node",
+            "feature": "X8",
+            "threshold": -24,
+            "left": {
+                "type": "node",
+                "feature": "X7",
+                "threshold": 18,
+                "left": {
+                    "type": "node",
+                    "feature": "X9",
+                    "threshold": -8,
+                    "left": {
+                        "type": "node",
+                        "feature": "X7",
+                        "threshold": 11,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X11",
+                        "threshold": 6,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "leaf",
+                    "vote": 1
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X12",
+                "threshold": 28,
+                "left": {
+                    "type": "node",
+                    "feature": "X16",
+                    "threshold": 14,
+                    "left": {
+                        "type": "node",
+                        "feature": "X8",
+                        "threshold": 20,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X8",
+                        "threshold": 14,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X12",
+                    "threshold": 38,
+                    "left": {
+                        "type": "node",
+                        "feature": "X14",
+                        "threshold": 12,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X14",
+                        "threshold": -22,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "type": "node",
+        "feature": "X14",
+        "threshold": -24,
+        "left": {
+            "type": "node",
+            "feature": "X16",
+            "threshold": -6,
+            "left": {
+                "type": "node",
+                "feature": "X16",
+                "threshold": -14,
+                "left": {
+                    "type": "leaf",
+                    "vote": 0
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X12",
+                    "threshold": -14,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 0
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X15",
+                        "threshold": -14,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X12",
+                "threshold": -8,
+                "left": {
+                    "type": "node",
+                    "feature": "X16",
+                    "threshold": -6,
+                    "left": {
+                        "type": "node",
+                        "feature": "X12",
+                        "threshold": -64,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X12",
+                        "threshold": -12,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X11",
+                    "threshold": -10,
+                    "left": {
+                        "type": "node",
+                        "feature": "X5",
+                        "threshold": -42,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X9",
+                        "threshold": -26,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            }
+        },
+        "right": {
+            "type": "node",
+            "feature": "X8",
+            "threshold": -22,
+            "left": {
+                "type": "node",
+                "feature": "X9",
+                "threshold": 2,
+                "left": {
+                    "type": "node",
+                    "feature": "X7",
+                    "threshold": -4,
+                    "left": {
+                        "type": "node",
+                        "feature": "X7",
+                        "threshold": -22,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X16",
+                        "threshold": 4,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X10",
+                    "threshold": 34,
+                    "left": {
+                        "type": "leaf",
+                        "vote": 1
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X12",
+                        "threshold": 4,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            },
+            "right": {
+                "type": "node",
+                "feature": "X12",
+                "threshold": 24,
+                "left": {
+                    "type": "node",
+                    "feature": "X7",
+                    "threshold": 16,
+                    "left": {
+                        "type": "node",
+                        "feature": "X2",
+                        "threshold": -26,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 1
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X8",
+                        "threshold": 8,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                },
+                "right": {
+                    "type": "node",
+                    "feature": "X13",
+                    "threshold": 24,
+                    "left": {
+                        "type": "node",
+                        "feature": "X10",
+                        "threshold": 13,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 1
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    },
+                    "right": {
+                        "type": "node",
+                        "feature": "X8",
+                        "threshold": -2,
+                        "left": {
+                            "type": "leaf",
+                            "vote": 0
+                        },
+                        "right": {
+                            "type": "leaf",
+                            "vote": 0
+                        }
+                    }
+                }
+            }
+        }
+    }
+]
