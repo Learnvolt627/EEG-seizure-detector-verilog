@@ -1,4 +1,5 @@
 import pandas as pd
+import math
 import numpy as np
 import json
 from sklearn.model_selection import train_test_split
@@ -26,7 +27,7 @@ def tree_to_json(tree, feature_names):
     def recurse(node):
         if tree_.feature[node] != _tree.TREE_UNDEFINED:
             name = feature_name[node]
-            threshold = int(round(tree_.threshold[node]))
+            threshold = math.floor(tree_.threshold[node])
             left = recurse(tree_.children_left[node])
             right = recurse(tree_.children_right[node])
             return {
