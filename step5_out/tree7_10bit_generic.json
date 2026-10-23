@@ -1,0 +1,53 @@
+{
+   "creator": "Yosys 0.70 (git sha1 28ba3cb92, Release, Clang /workspace/YoWASP/yosys/wasi-sdk-33.0-x86_64-linux/share/cmake/../..//bin/clang++ 22.1.0)",
+   "invocation": "stat -json ",
+   "modules": {
+      "\\seizure_detector": {
+         "num_wires":         292,
+         "num_wire_bits":     436,
+         "num_pub_wires":     20,
+         "num_pub_wire_bits": 164,
+         "num_ports":         19,
+         "num_port_bits":     163,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         274,
+         "num_submodules":       0,
+         "num_cells_by_type": {
+            "$_ANDNOT_": 19,
+            "$_AND_": 102,
+            "$_DFF_PP0_": 1,
+            "$_MUX_": 4,
+            "$_NAND_": 63,
+            "$_NOR_": 41,
+            "$_ORNOT_": 2,
+            "$_OR_": 42
+         }
+      }
+   },
+      "design": {
+         "num_wires":         292,
+         "num_wire_bits":     436,
+         "num_pub_wires":     20,
+         "num_pub_wire_bits": 164,
+         "num_ports":         19,
+         "num_port_bits":     163,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         274,
+         "num_submodules":       0,
+         "num_cells_by_type": {
+            "$_ANDNOT_": 19,
+            "$_AND_": 102,
+            "$_DFF_PP0_": 1,
+            "$_MUX_": 4,
+            "$_NAND_": 63,
+            "$_NOR_": 41,
+            "$_ORNOT_": 2,
+            "$_OR_": 42
+         }
+      }
+}
+
